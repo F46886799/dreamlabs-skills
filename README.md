@@ -20,9 +20,12 @@ Dreamlabs Skills
 * 待定
 
 ## 第三方目录扫描
+### 全局扫描
+* 例如：把 ~/Work/Frameworks/Github/dreamlabs-skills/my-skills 链接到 全局 skills
+* ln -s ~/Work/Frameworks/Github/dreamlabs-skills/my-skills ~/.agent/skills/my-skills
 ### OpenClaw扫描
-例如：把 ~/Work/Frameworks/Github/dreamlabs-skills/my-skills 链接到 OpenClaw 全局 skills
-ln -s ~/Work/Frameworks/Github/dreamlabs-skills/my-skills ~/.openclaw/skills/my-skills
+* 例如：把 ~/Work/Frameworks/Github/dreamlabs-skills/my-skills 链接到 OpenClaw 全局 skills
+* ln -s ~/Work/Frameworks/Github/dreamlabs-skills/my-skills ~/.openclaw/skills/my-skills
 ### Hermes扫描
-例如：把 ~/Work/Frameworks/Github/dreamlabs-skills/my-skills 链接到 Hermes 全局 skills
-ln -s ~/Work/Frameworks/Github/dreamlabs-skills/my-skills ~/.hermes/skills
+* 例如：把 ~/Work/Frameworks/Github/dreamlabs-skills/my-skills 链接到 Hermes 全局 skills
+* ln -s ~/Work/Frameworks/Github/dreamlabs-skills/my-skills ~/.hermes/skills
